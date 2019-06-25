@@ -1,2 +1,2 @@
 # Romulusque
-Discord Bot
+Discord Bot (Moderation & Shitpost)
